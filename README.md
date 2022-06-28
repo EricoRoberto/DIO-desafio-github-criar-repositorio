@@ -14,9 +14,17 @@ cd .. - Retorna a um diretório anterior
 
 mkdir - Cria uma pasta
 
+rmdir NomeDoDiretorio /S /Q - Apaga um diretório e subpastas 
+
 del - deleta arquivo
 
 echo hello > hello.txt - Cria um arquivo txt de nome hello
+
+## Comandos Básicos do Git
+
+ls - mostra as pastas do diretório
+
+
 
 ## Links úteis
 [Baixar o GIT](https://git-scm.com/downloads)
