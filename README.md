@@ -24,6 +24,15 @@ echo hello > hello.txt - Cria um arquivo txt de nome hello
 
 ls - mostra as pastas do diretório
 
+ls -a - Mostra pastas ocultas
+
+git init - inicializa um repositório em uma pasta
+
+git config --global user.email "seu email" - configura o email do autor para o repsitório
+
+git config --global user.name "seu nome" - configura nome do usuário
+
+
 
 
 ## Links úteis
